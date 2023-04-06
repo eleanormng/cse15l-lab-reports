@@ -8,8 +8,7 @@
 
 [click me :D](https://www.notion.so/eleanor-s-life-a89c2029c79e4611ab3060ddabb354b4)
 
-![Image]
-(https://i.pinimg.com/originals/16/19/01/1619017559c0e69163e9a456833f795b.jpg)
+!(https://i.pinimg.com/originals/16/19/01/1619017559c0e69163e9a456833f795b.jpg)
 
 > is this what a blockquote looks like
 
