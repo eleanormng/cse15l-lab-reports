@@ -24,7 +24,7 @@
 this is a horizontal line
 ---
 
-'bonk inline code'
+' bonk ' is my inline code going to work properly this time pls
 
 ```
 # code block??!?
