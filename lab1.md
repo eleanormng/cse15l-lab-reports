@@ -7,6 +7,15 @@ Open VScode and you will see a window similar to this:
 ![My VScode](lab1-vscode.png)
 
 ## Step 2: Remotely Connecting!
-- 
-- Log in by entering the following command with your course-specific username: 
+- Now that VScode is open, open a terminal! You can use the shrotcut Ctrl + `
+- Log in by entering the following command with your course-specific username: `ssh cs15lsp23in@ieng6.ucsd.edu`
+
+Unfortunately, my login does not work :( This is the message that I get when trying to log in:
 ![Fail](lab1-login.png)
+
+But that's okay! I can log in using my UCSD AD information.
+I enter the command `ssh emn005@ieng6.ucsd.edu`
+
+- When your username is correctly inputted, enter your password into the terminal. It may be invisible, so just click Enter after typing your password.
+- When you have successfully logged in, something like this will appear in your terminal:
+![Success](lab1-loginsuccess.png)
