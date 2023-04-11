@@ -4,4 +4,9 @@
 - Follow the instructions on the website for the download and installation on your computer!
 
 Open VScode and you will see a window similar to this:
-![My VScode](
+![My VScode](lab1-vscode.png)
+
+## Step 2: Remotely Connecting!
+- 
+- Log in by entering the following command with your course-specific username: 
+![Fail](lab1-login.png)
