@@ -19,3 +19,11 @@ I enter the command `ssh emn005@ieng6.ucsd.edu`
 - When your username is correctly inputted, enter your password into the terminal. It may be invisible, so just click Enter after typing your password.
 - When you have successfully logged in, something like this will appear in your terminal:
 ![Success](lab1-loginsuccess.png)
+
+## Step 3: Trying Some Commands!
+- Try running some commands in your terminal!
+- I tried using the `ls` command, which lists the files in the working directory.
+- `ls -a` does the same thing, but shows all of the hidden files as well.
+- `ls -lat`produces a list of all files sorted by date.
+
+![Tests](lab1-tests.png)
