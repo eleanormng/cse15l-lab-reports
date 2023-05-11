@@ -6,7 +6,7 @@
 - It was very helpful!
 
 - Here's my code!
-![StringServer](stringserver.)png
+![StringServer](stringserver.png)
 
 - After getting the server up and running, I added a few lines to the running string message by using `/add-message`
 
