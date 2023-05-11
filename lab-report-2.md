@@ -49,7 +49,7 @@
 ![JUnit Fails](junitfails.png)
 
 - This was the code containing a bug, before I created any changes to it.
-**Before:**
+- **Before:**
 ```
 static void reverseInPlace(int[] arr) {
     for(int i = 0; i < arr.length; i += 1) {
@@ -60,6 +60,7 @@ static void reverseInPlace(int[] arr) {
 
 - Then, I tweaked some parts of the code to make sure it works!
 - This consisted of adjusting the for loop, as well as creating a temp variable
+- **After:**
 ```
 static void reverseInPlace(int[] arr) {
     for(int i = 0; i < arr.length/2; i += 1) {
