@@ -11,7 +11,7 @@ import com.sun.net.httpserver.HttpHandler;
 import com.sun.net.httpserver.HttpServer;
 
 interface URLHandler {
-    String handleRequest(URI url);
+    String handleRequest(URI url) throws IOException;
 }
 
 class ServerHttpHandler implements HttpHandler {
