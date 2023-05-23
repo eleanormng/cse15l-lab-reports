@@ -6,19 +6,19 @@
 - It was very helpful!
 
 - Here's my code!
-![StringServer](stringserver.png)
+> ![StringServer](stringserver.png)
 
 - After getting the server up and running, I added a few lines to the running string message by using `/add-message`
 
 **Example 1:**
-![Query](query.png)
-![Message](updatedserver.png)
+> ![Query](query.png)
+> ![Message](updatedserver.png)
 - This calls the HandleRequest method in my code
 - The URL of "https://localhost:4000/add-message?s=I'm adding a new line to my String Server by doing this" is passed in as an argument.
 - Then, it reads the substrings that follow the path after `/add-message` and after the query is started by `s=` and adds these substrings to `String` message
 
 **Example 2:**
-![Goodbye Message](goodbyemessage.png)
+> ![Goodbye Message](goodbyemessage.png)
 - The same thing happens when I enter "Goodbye" too!
 - The URL is taken in by the HandleRequest method, then whatever follows `s=` is put into `String` message and returned on the Server. Very cool.
 
@@ -46,7 +46,7 @@
 ```
 
 - When running both of these JUnit tests, these were the symptoms that occurred:
-![JUnit Fails](junitfails.png)
+> ![JUnit Fails](junitfails.png)
 
 - This was the code containing a bug, before I created any changes to it.
 - **Before:**
