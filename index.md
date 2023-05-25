@@ -1,32 +1,4 @@
-*whats good gang*
-
-**this is so much fun**
-
-# This is Heading 1
-
-## This is Heading 2
-
-[click me :D](https://www.notion.so/eleanor-s-life-a89c2029c79e4611ab3060ddabb354b4)
-
-![Image](https://i.pinimg.com/originals/16/19/01/1619017559c0e69163e9a456833f795b.jpg)
-
-> is this what a blockquote looks like
-
-- list
-- list
-* list
-* list
-
-1. One!
-2. Two!!
-3. Three!!!
-
-this is a horizontal line
----
-
-' bonk ' is my inline code going to work properly this time pls
-
-```
-# code block??!?
-id rather use 3 backticks than indent 4 spaces :p
-```
+[Lab Report 1](https://eleanormng.github.io/cse15l-lab-reports/lab-report-1.html)  
+[Lab Report 2](https://eleanormng.github.io/cse15l-lab-reports/lab-report-2.html)  
+[Lab Report 3](https://eleanormng.github.io/cse15l-lab-reports/lab-report-3.html)  
+[Lab Report 4](https://eleanormng.github.io/cse15l-lab-reports/lab-report-4.html)  
