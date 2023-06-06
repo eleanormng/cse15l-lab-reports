@@ -2,7 +2,7 @@
 
 ## Part 1 - Debugging Scenario
 
-1. Student's Original Post
+- Student's Original Post
 
 > ![EdStem Post](edstem-post.png)
 
@@ -19,14 +19,14 @@ I want to run the tests using grade.sh, but it's saying that I don't have the st
 I wrote the bash script to clone the student's submission and run the tests as needed.
 
 
-2. TA's Response
+- TA's Response
 
 > ![TA Response](ta-response.png)
 
 Think about what directory you are working in. Try using the `ls` command to see what files you're working in to make sure you're in the right working directory! In addition, make sure you're passing the right argument into command line. What are you running grade.sh on?
 
 
-3. Identifying the Bug
+- Identifying the Bug
 
 > ![Bug](bug.png)
 
@@ -39,7 +39,7 @@ I am not in the correct directory. I have to change to the student-submission di
 I also forgot to add in the link to the student's submission.
 
 
-4. Setup Information
+- Setup Information
 
 File and directory structure:
 > ![Directory](directory.png)
